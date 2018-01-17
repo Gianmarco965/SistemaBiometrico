@@ -1,0 +1,12 @@
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\bin\Debug\Funciones.dll
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\bin\Debug\Funciones.pdb
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\bin\Debug\Funciones.xml
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\bin\Debug\Entidades.dll
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\bin\Debug\Entidades.pdb
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\bin\Debug\Entidades.xml
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\obj\Debug\Funciones.vbprojResolveAssemblyReference.cache
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\obj\Debug\Funciones.Resources.resources
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\obj\Debug\Funciones.dll
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\obj\Debug\Funciones.xml
+C:\Users\archa\Videos\SistemaBiometrico\SistemaBiometrico\Funciones\obj\Debug\Funciones.pdb
